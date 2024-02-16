@@ -1,27 +1,27 @@
 {
   "users": [
     {
-      "id": "Vicky",
-      "fullName": "Vicky Sandler",
-      "email": "vicky23@gmail.com",
-      "password": "vicky45*",
-      "confirmPassword": "vicky45*",
+      "id": "Paul",
+      "fullName": "Paul Paul",
+      "email": "pp@yahoo.com",
+      "password": "pp5678//",
+      "confirmPassword": "pp5678//",
       "checkbox": true
     },
     {
-      "id": "Vero",
-      "fullName": "Veronica Coker",
-      "email": "vero@gmail.com",
-      "password": "vero62@1",
-      "confirmPassword": "vero62@1",
+      "id": "Andy",
+      "fullName": "Andy Rose",
+      "email": "andy345@gmail.com",
+      "password": "andy2020@",
+      "confirmPassword": "andy2020@",
       "checkbox": true
     },
     {
-      "id": "Sophia",
-      "fullName": "Sophia Walker",
-      "email": "soso@gmail.com",
-      "password": "Soso1234/",
-      "confirmPassword": "Soso1234/",
+      "id": "Becky_",
+      "fullName": "Rebecca Phils",
+      "email": "becky@yahoo.com",
+      "password": "philsbec23/",
+      "confirmPassword": "philsbec23/",
       "checkbox": true
     }
   ]

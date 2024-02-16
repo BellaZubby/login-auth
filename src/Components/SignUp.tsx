@@ -22,19 +22,19 @@ const SignUp = () => {
 
     const onSubmit = async (data:any, e:any) => {
         // NB trigger comes from the useFrom hook above.
-            e.preventDefault();
-
-             fetch("http://localhost:8000/users", {
+             e.preventDefault();
+            //  console.log(data);
+            fetch("http://localhost:8000/users", {
                 method: "POST",
-                 headers: {'content-type':'application/json'},
-                 body:JSON.stringify(data)
-             }).then((_response)=> {
-                 toast.success('Registration was successful');
-                 navigate('/login');
+                headers: {"content-type":"application/json"},
+                body: JSON.stringify(data)
+            }).then((_response)=>{
+                toast.success('Registration was successful');
+                navigate('/login');
             }).catch((_error)=>{
-                 toast.error('Failed registration');
-             });
-        reset;
+                toast.error('Failed registration')
+            });
+             reset;
     }
     // for confirm password
 
