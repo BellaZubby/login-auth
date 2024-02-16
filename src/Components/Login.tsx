@@ -51,8 +51,8 @@ const Login = () => {
         placeholder:text-gray-20 placeholder:font-sm text-black`
         return (
             <section>
-                 <div className='flex items-center justify-center bg-slate-100 h-screen w-full'>
-                    <div className='border px-6 py-9 rounded-sm border-gray-100 mx-auto w-5/6 sm:w-[50%] md:w-[30%] main'>
+                 <div className='flex items-center justify-center bg-primary-20 h-screen w-full'>
+                    <div className='border px-6 py-9 rounded-sm border-gray-100 mx-auto w-5/6 sm:w-[50%] md:w-[30%] bg-white main'>
                         <h1 className='font-montserrat text-primary-100 text-2xl font-semibold text-center '>MEMBER LOGIN</h1>
                         <form className='mt-6' onSubmit={handleSubmit(onSubmit)}>
                             <input

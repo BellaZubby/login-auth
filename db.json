@@ -23,6 +23,14 @@
       "password": "philsbec23/",
       "confirmPassword": "philsbec23/",
       "checkbox": true
+    },
+    {
+      "id": "Zubby",
+      "fullName": "Zubby Zubby",
+      "email": "zubby54@gmail.com",
+      "password": "zubby5480@",
+      "confirmPassword": "zubby5480@",
+      "checkbox": true
     }
   ]
 }

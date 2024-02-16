@@ -44,8 +44,8 @@ const SignUp = () => {
     placeholder:text-gray-20 border-gray-300 placeholder:font-sm text-black`
   return (
     <div>
-        <div className='flex items-center justify-center bg-slate-100 h-auto w-full'>
-            <div className='my-16 border px-6 py-9 rounded-sm border-gray-100 w-5/6 mx-auto sm:w-[50%] md:w-[30%] main'>
+        <div className='flex items-center justify-center bg-primary-20 h-auto w-full'>
+            <div className='my-16 border px-6 py-9 rounded-sm border-gray-100 w-5/6 mx-auto sm:w-[50%] md:w-[30%] bg-white main'>
                 <h1 className='font-montserrat text-primary-100 text-2xl font-semibold text-center '>CREATE ACCOUNT</h1>
                 <form 
                     className='mt-6'
