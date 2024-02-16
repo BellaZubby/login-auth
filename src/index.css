@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@300&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .main {
+    box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.2);
+  }
+}
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+
+}

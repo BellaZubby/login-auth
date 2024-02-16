@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "Vicky",
+      "fullName": "Vicky Sandler",
+      "email": "vicky23@gmail.com",
+      "password": "vicky45*",
+      "confirmPassword": "vicky45*",
+      "checkbox": true
+    },
+    {
+      "id": "Vero",
+      "fullName": "Veronica Coker",
+      "email": "vero@gmail.com",
+      "password": "vero62@1",
+      "confirmPassword": "vero62@1",
+      "checkbox": true
+    },
+    {
+      "id": "Sophia",
+      "fullName": "Sophia Walker",
+      "email": "soso@gmail.com",
+      "password": "Soso1234/",
+      "confirmPassword": "Soso1234/",
+      "checkbox": true
+    }
+  ]
+}
