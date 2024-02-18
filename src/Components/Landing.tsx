@@ -1,16 +1,16 @@
 import { useEffect } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 
-
 const Landing = () => {
   const navigate = useNavigate();
-  
-  useEffect(()=>{
+
+  useEffect(() => {
     let username = sessionStorage.getItem('username');
-    if(username === "" || username===null){
+    if (username === "" || username === null) {
       navigate('/login');
     }
   }, []);
+  
   return (
     <section>
       <div className='bg-white h-screen w-full flex flex-col items-center justify-center'>

@@ -31,6 +31,14 @@
       "password": "zubby5480@",
       "confirmPassword": "zubby5480@",
       "checkbox": true
+    },
+    {
+      "id": "King",
+      "fullName": "Kingdom Lawrence",
+      "email": "king@yahoo.com",
+      "password": "king453/",
+      "confirmPassword": "king453/",
+      "checkbox": true
     }
   ]
 }
