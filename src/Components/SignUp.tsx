@@ -35,7 +35,9 @@ const SignUp = () => {
             toast.success('Registration was successful');
             navigate('/login');
         }).catch((_error) => {
+            console.log(_error);
             toast.error('Failed Registration')
+            
         })
     }
     // for confirm password

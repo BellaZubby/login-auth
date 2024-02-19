@@ -39,6 +39,46 @@
       "password": "king453/",
       "confirmPassword": "king453/",
       "checkbox": true
+    },
+    {
+      "id": "Glory",
+      "fullName": "Glory Kings",
+      "email": "glorykings5@gmail.com",
+      "password": "glory//kings45",
+      "confirmPassword": "glory//kings45",
+      "checkbox": true
+    },
+    {
+      "id": "Light",
+      "fullName": "Delight Gift",
+      "email": "delight20@gmail.com",
+      "password": "de2020//",
+      "confirmPassword": "de2020//",
+      "checkbox": true
+    },
+    {
+      "id": "King",
+      "fullName": "Kingsely Wills",
+      "email": "king12@yahoo.com",
+      "password": "wills12//",
+      "confirmPassword": "wills12//",
+      "checkbox": true
+    },
+    {
+      "id": "Ebyy",
+      "fullName": "Eby Abbey",
+      "email": "eby234@gmail.com",
+      "password": "eby425//",
+      "confirmPassword": "eby425//",
+      "checkbox": true
+    },
+    {
+      "id": "Queen",
+      "fullName": "Queen King",
+      "email": "queen728@gmail.com",
+      "password": "queen14//",
+      "confirmPassword": "queen14//",
+      "checkbox": true
     }
   ]
 }
